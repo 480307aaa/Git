@@ -1,0 +1,9 @@
+提交代码流程：
+git pull
+git add .
+git status
+git commit -m "description"
+git push origin develop
+
+本地分支和远程分支做关联：
+git push --set-upstream origin develop/master......
